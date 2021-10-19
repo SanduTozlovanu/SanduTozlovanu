@@ -2,9 +2,9 @@
 
 ## I am a Computer Science Student and i love it!!
 
-- 🔭 Currently I'm studying Computer Networks and Database!
-- 👯 I’m also looking for a junior job in a Company!
-- 🥅 2021 Goals: Get a cool job and prepare a splendid CV.
+- 🔭 Studying Computer Networks and Database.
+- 👯 Currently looking for a junior position/internship as a software engineer.
+- 🥅 2021 Goals: Learn a new programming Language.
 - ⚡ About me: I like Martial arts, Dancing and Board Games !!
 
 ### Connect with me:
