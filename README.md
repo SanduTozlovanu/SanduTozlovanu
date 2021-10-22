@@ -9,8 +9,8 @@
 
 ### Connect with me:
 
-[<img align="left" alt="SanduTozlovanu | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
-[<img align="left" alt="SanduTozlovanu | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="SanduTozlovanu | Facebook" width="22px" src="https://cdn.exclaimer.com/Handbook%20Images/facebook-icon_24x24.png?_ga=2.50885225.1537100272.1634892076-1735758275.1634892075" />][facebook]
+[<img align="left" alt="SanduTozlovanu | Instagram" width="22px" src="https://cdn.exclaimer.com/Handbook%20Images/instagram-icon_24x24.png?_ga=2.9001973.1537100272.1634892076-1735758275.1634892075" />][instagram]
 
 <br />
 
