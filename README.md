@@ -2,8 +2,8 @@
 
 ## I am a Computer Science Student and i love it!!
 
-- 🔭 Studying Computer Networks and Database.
-- 👯 Currently looking for a junior position/internship as a C++ software engineer.
+- 🔭 Currently Studying Java and HTML+CSS.
+- 👯 Looking for a junior position/internship as a C++ software engineer.
 - 🥅 2021 Goals: Learn a new programming Language.
 - ⚡ About me: I like Martial arts, Dancing and Board Games !!
 
