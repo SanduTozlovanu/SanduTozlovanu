@@ -2,7 +2,7 @@
 
 ## I am a Software engineer and i love it!!
 
-- 🔭 Currently Studying advanced algorithms.
+- 🔭 Currently Studying advanced algorithms in HFT domain.
 - 👯 Always looking for a team to accomplish beautiful projects.
 - 🥅 2024 Goal: Deepen myself furthermore into Cloud computing.
 - ⚡ About me: I like Martial arts, Dancing and Board Games !!
